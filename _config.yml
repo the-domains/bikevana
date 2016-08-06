@@ -1,0 +1,28 @@
+name: Bikevana
+favicon: null
+layout_spectrum: 0.6827695008832961
+typography_spectrum: 0.18585523776710033
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.10032630153000355
+  lightness: 0.6635130310896784
+  saturation: 0.8951731631532311
+  rhythmicContrast: 0.13584888633340597
+purpose: []
